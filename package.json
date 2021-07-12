@@ -1,7 +1,7 @@
 {
   "name": "study_shack",
   "version": "0.1.0",
-  "homepage": "mirosh-kavinda.github.io/thestudyshack",
+  "homepage": "https://mirosh-kavinda.github.io/thestudyshack",
   "private": false,
   "dependencies": {
     "@material-ui/core": "^4.11.4",
