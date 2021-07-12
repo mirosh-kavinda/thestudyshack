@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mirosh-kavinda.github.io/thestudyshack/static/css/main.1d4483b6.chunk.css",
+    "main.js": "/mirosh-kavinda.github.io/thestudyshack/static/js/main.4aab9f61.chunk.js",
+    "main.js.map": "/mirosh-kavinda.github.io/thestudyshack/static/js/main.4aab9f61.chunk.js.map",
+    "runtime-main.js": "/mirosh-kavinda.github.io/thestudyshack/static/js/runtime-main.1c9198f0.js",
+    "runtime-main.js.map": "/mirosh-kavinda.github.io/thestudyshack/static/js/runtime-main.1c9198f0.js.map",
+    "static/css/2.72058e99.chunk.css": "/mirosh-kavinda.github.io/thestudyshack/static/css/2.72058e99.chunk.css",
+    "static/js/2.7459cedb.chunk.js": "/mirosh-kavinda.github.io/thestudyshack/static/js/2.7459cedb.chunk.js",
+    "static/js/2.7459cedb.chunk.js.map": "/mirosh-kavinda.github.io/thestudyshack/static/js/2.7459cedb.chunk.js.map",
+    "static/js/3.a77f6893.chunk.js": "/mirosh-kavinda.github.io/thestudyshack/static/js/3.a77f6893.chunk.js",
+    "static/js/3.a77f6893.chunk.js.map": "/mirosh-kavinda.github.io/thestudyshack/static/js/3.a77f6893.chunk.js.map",
+    "index.html": "/mirosh-kavinda.github.io/thestudyshack/index.html",
+    "static/css/2.72058e99.chunk.css.map": "/mirosh-kavinda.github.io/thestudyshack/static/css/2.72058e99.chunk.css.map",
+    "static/css/main.1d4483b6.chunk.css.map": "/mirosh-kavinda.github.io/thestudyshack/static/css/main.1d4483b6.chunk.css.map",
+    "static/js/2.7459cedb.chunk.js.LICENSE.txt": "/mirosh-kavinda.github.io/thestudyshack/static/js/2.7459cedb.chunk.js.LICENSE.txt",
+    "static/media/back1234.fbe9c1bf.jpg": "/mirosh-kavinda.github.io/thestudyshack/static/media/back1234.fbe9c1bf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c9198f0.js",
+    "static/css/2.72058e99.chunk.css",
+    "static/js/2.7459cedb.chunk.js",
+    "static/css/main.1d4483b6.chunk.css",
+    "static/js/main.4aab9f61.chunk.js"
+  ]
+}
