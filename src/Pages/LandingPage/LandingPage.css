@@ -1,0 +1,45 @@
+.img{
+    background-repeat: no-repeat; 
+    position:absolute;
+    display: flex;
+    top :10px;
+    z-index:-1;
+  width:cover;
+    height: 1000px;
+  
+    }
+.form{
+    position: absolute;
+    width: 281px;
+    height: 44px;
+    top: 490px
+}
+
+.motto{
+    top:10px;
+}
+
+.search{
+    display: flex;
+    justify-content:center;
+}
+
+.button{
+    /* Auto Layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 32px;
+
+position: absolute;
+display: flex;
+height: 48px;
+top: 540px;
+
+/* Brand / Purple */
+background: #8C30F5;
+box-shadow: 6px 10px 4px rgba(0, 0, 0, 0.25);
+border-radius: 6px;
+}
+
