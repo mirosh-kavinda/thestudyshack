@@ -1,7 +1,7 @@
 import React from 'react';
 import {Navbar,Nav,Button} from 'react-bootstrap';
 // import { Link, withRouter } from "react-router-dom";
-import logo from './123.png';
+import logo from '../img/123.png';
 
 const Navigation=({onRouteChange,isSignedIn})=>{
     

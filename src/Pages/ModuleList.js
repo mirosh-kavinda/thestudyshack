@@ -1,6 +1,6 @@
 import React from 'react';
 import { Col,Card,Container,Row,Button, } from 'react-bootstrap';
-import './ModuleList.css';
+import '../css/ModuleList.css';
 const ModuleList=()=>{
     return(
             <div >

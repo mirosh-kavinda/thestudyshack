@@ -1,10 +1,10 @@
-import './App.css';
+import './css/App.css';
 import React, { Component } from "react";
-import Navigation from './components/Navigation/Navigation';
-import BootstrapCarousel from './components/BootstrapCarousel/BootstrapCarousel';
-import LandingPage from './Pages/LandingPage/LandingPage';
-import ModuleList from './Pages/ModuleList/ModuleList';
-import Testimonials from './Pages/Testmonials/Testimonials';
+import Navigation from './components/Navigation';
+import BootstrapCarousel from './components/BootstrapCarousel';
+import LandingPage from './Pages/LandingPage';
+import ModuleList from './Pages/ModuleList';
+import Testimonials from './Pages/Testimonials';
 import Footer from './components/Footer/Footer';
 
 

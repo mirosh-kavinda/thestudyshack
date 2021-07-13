@@ -1,6 +1,6 @@
 import React from 'react';
-import './LandingPage.css';
-import back1234 from './back1234.jpg'; // gives image path
+import '../css/LandingPage.css';
+import back1234 from '../img/back1234.jpg'; // gives image path
 
 
 const LandingPage = ({onInputChange,onButtonSubmit}) => {

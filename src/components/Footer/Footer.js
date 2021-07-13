@@ -7,7 +7,7 @@ import {
   FooterLink,
   Heading,
 } from './FooterStyles';
-import logo from './123.png';
+import logo from '../../img/123.png';
   
 const Footer = () => {
   return (
