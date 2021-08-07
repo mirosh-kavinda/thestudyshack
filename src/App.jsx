@@ -1,20 +1,16 @@
 import './App.css';
 import{ React ,useState, useEffect } from "react";
 import {Navigation} from './components/Navigation.jsx';
-import {BootstrapCarousel} from './components/BootstrapCarousel.jsx';
-import {LandingPage} from './components/LandingPage.jsx';
-import {ModuleList} from './components/ModuleList.jsx';
-import {Testimonials} from './components/Testimonials.jsx';
 import {Footer} from './components/Footer.jsx';
 import JsonData from './data/data.json';
 import SmoothScroll from 'smooth-scroll'
+import {LandingPage} from './components/LandingPage';
 
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
   speedAsDuration: true,
 })
-
 
 const App =()=>{
     
@@ -26,18 +22,11 @@ const App =()=>{
         return (
           <div className="App">
             <Navigation data={landingPageData.Header}  />
-            <BootstrapCarousel  />
-            <LandingPage />
-            <div className='intro'>
-                <ModuleList />
+            <LandingPage/>
+            <div className='footer'>
+                 <Footer />
             </div>
           
-            <div className="testimonial">
-                <Testimonials />
-            </div>
-            <div className='footer'>
-              <Footer />
-            </div> 
           </div>
         );
     };

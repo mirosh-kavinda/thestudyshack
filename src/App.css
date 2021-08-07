@@ -1,37 +1,23 @@
 
  .App{
-  position: relative;
-  width: cover;
-  height: 2650px;
-  z-index: 1;
-  background: #106b72;
-  border: 1px solid #000000;
-  box-sizing: border-box;
- }
-.intro{
-  margin-top: 30px;
-   background-repeat: no-repeat; 
-   position:relative;
-   text-align: center;
-   top :700px;
-   z-index:-1;
-   
- }
+   /* Desktop */
 
 
-.testimonial{
-  justify-content: center;
-  position: absolute;
-  width: cover;
-  top: 1900px;
-  z-index:-1;
+position: relative;
+width:cover;
+height: 4000px;
+z-index:1;
+background: #17AAB1;
+
+box-sizing: border-box;
+
+ }
  
-}   
-
+ 
 .footer{
   background-repeat: no-repeat; 
   position:relative;
   text-align: center;
-  top :1500px;
+  top :3900px;
   z-index:1;
 }
