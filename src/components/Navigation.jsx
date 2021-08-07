@@ -3,7 +3,7 @@ import {Navbar,Nav,Button} from 'react-bootstrap';
 // import { Link, withRouter } from "react-router-dom";
 import logo from '../img/123.png';
 
-const Navigation=({onRouteChange,isSignedIn})=>{
+export const Navigation=({onRouteChange})=>{
     
       return(
         <Navbar bg="light" expand="lg">
@@ -33,6 +33,6 @@ const Navigation=({onRouteChange,isSignedIn})=>{
       
 }
 
-export default Navigation;
+
 
 

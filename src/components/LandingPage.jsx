@@ -3,7 +3,7 @@ import '../css/LandingPage.css';
 import back1234 from '../img/back1234.jpg'; // gives image path
 
 
-const LandingPage = ({onInputChange,onButtonSubmit}) => {
+export  const LandingPage = ({onInputChange,onButtonSubmit}) => {
   return (
     <div className="search">
       <img src={back1234} className='img'alt=''/>
@@ -16,6 +16,5 @@ const LandingPage = ({onInputChange,onButtonSubmit}) => {
   );
 }
 
-export default LandingPage;
 
 

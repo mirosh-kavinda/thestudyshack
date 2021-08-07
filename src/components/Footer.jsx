@@ -6,10 +6,10 @@ import {
   Column,
   FooterLink,
   Heading,
-} from './FooterStyles';
-import logo from '../../img/123.png';
+} from './FooterStyles.jsx';
+import logo from '../img/123.png';
   
-const Footer = () => {
+export const Footer = () => {
   return (
     <Box>
       {/* <h1 style={{ color: "green", 
@@ -79,4 +79,3 @@ const Footer = () => {
     </Box>
   );
 };
-export default Footer;

@@ -1,7 +1,8 @@
 import React from 'react';
 import { Col,Card,Container,Row,Button, } from 'react-bootstrap';
 import '../css/ModuleList.css';
-const ModuleList=()=>{
+
+export const ModuleList=()=>{
     return(
             <div >
              
@@ -86,5 +87,3 @@ const ModuleList=()=>{
             </div>
     );
 }
-
-export default ModuleList;
